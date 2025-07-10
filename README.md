@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable backend sys
 ### 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/ammareli) <!-- Replace with your real LinkedIn URL if available -->
 - [Twitter](https://twitter.com/ammareli) <!-- Replace with your real Twitter URL if available -->
-- Email: your.email@example.com <!-- Replace with your real email if you want it public -->
+- Email: ammaralee.005@gmail.com <!-- Replace with your real email if you want it public -->
 
 ---
 
